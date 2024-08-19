@@ -24,4 +24,5 @@ Implements the Singleton pattern for the main form.
 Follows the Model-View-Controller (MVC) pattern for clean and efficient code organization.
 
 !! This is a school project developed by a team of four members.
+
 !!! My contribution to the project developement part includes UI (both frondend and backend links) and writing the documentation.
