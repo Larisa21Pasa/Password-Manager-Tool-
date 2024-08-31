@@ -23,6 +23,7 @@ Implements the Singleton pattern for the main form.
 ## Architectural Design:
 Follows the Model-View-Controller (MVC) pattern for clean and efficient code organization.
 
-!! This is a school project developed by a team of four members.
+!!! This is a team project developed during the 3th year of the Automatics and Computers program. !!!
+
 
 !!! My contribution to the project developement part includes UI (both frondend and backend links) and writing the documentation.
